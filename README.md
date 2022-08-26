@@ -1,36 +1,8 @@
-eggwm
-=====
+# TODO
 
-forked from https://code.google.com/p/eggwm/
+- Move src/eggwm/* to src/*
+- Convert the build system to CMake
+- Better defaults
+- Translate comments from spanish to english
 
-
-## Build && Install
-
-
-### Qt4
-
-```
-export QT_SELECT=4
-qmake
-make
-sudo make install
-```
-
-
-### Qt5 for AnthonOS
-
-```
-/usr/lib/qt5/bin/qmake
-make
-sudo make install
-```
-
-
-### Qt5 for ArchLinux
-
-```
-export QT_SELECT=5
-qmake
-make
-sudo make install
-```
+- Implement more WM standards?
