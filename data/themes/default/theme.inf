@@ -10,18 +10,18 @@ show_icon=true
 
 ; Size of the window elements in pixels.
 ; Negative values are invalid.
-titlebar_width=16
+titlebar_width=32
 top_border_width=4
 bottom_border_width=4
 left_border_width=2
 right_border_width=2
-icon_size=12
+icon_size=24
 
 ; Position of the window buttons, the window icon and the window title.
 ; Options: [left/right/center]:[Index 1..n]
 exit_button_pos=right:1
-maximize_button_pos=right:3
-minimize_button_pos=right:2
+maximize_button_pos=right:2
+minimize_button_pos=right:3
 icon_pos=left:1
 title_pos=center:2
 
